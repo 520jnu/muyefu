@@ -4,4 +4,6 @@ haha
 dev 上添加一行数据
 新加的数据：
 cesh
-这是master上的新数据
+这是master
+ceshi
+这是dev
